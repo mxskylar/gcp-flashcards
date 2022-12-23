@@ -1,14 +1,14 @@
-# Obsidian Flashcard Templates
-This project provides templated [Obsidian](https://obsidian.md/) notes that are easy to generate and export to [Anki](https://apps.ankiweb.net/) as flashcards. It's a great way to create formulaic Anki Flashcards that double as notes in Obsidian.
+# GCP Flashcards
+This project contains [Obsidian](https://obsidian.md/) notes on Google Cloud Platform that are exported to [Anki](https://apps.ankiweb.net/) as flashcards. They are helpful for developers looking to deepen their understanding of GCP infrastructure.
 
-The project contains simple vocab flashcards as well as Jeopardy-style flashcards and a Jeopardy board in Obsidian, which hides togglable answers with the [Creases](https://github.com/liamcain/obsidian-creases) plugin.
+Notes are generated from templates. Templates are provided for for simple vocab flashcards as well as Jeopardy-style flashcards and a Jeopardy board in Obsidian, which hides togglable answers with the [Creases](https://github.com/liamcain/obsidian-creases) plugin.
 
 Follow the instructions below to [download and setup](#download-and-setup) this project as an Obsidian vault with Anki media files. Then, follow the remaining steps to [generate flashcard notes](#generate-and-export-flashcards) in Obsidian using the [Templater](https://github.com/SilentVoid13/Templater) plugin and export them as flashcards using the [Flashcards](https://github.com/reuseman/flashcards-obsidian) plugin.
 
 ## Download and Setup
 
 1. Download and install [Obsidian](https://obsidian.md/) and [Anki](https://apps.ankiweb.net/).
-2. [Download this project as a zip folder](https://github.com/mxskylar/obsidian-flashcard-templates/archive/refs/heads/main.zip), then unzip the folder.
+2. [Download this project as a zip folder](https://github.com/mxskylar/gcp-flashcards/archive/refs/heads/main.zip), then unzip the folder.
 3. [Import the unzipped folder into Obsidian as a vault](https://help.obsidian.md/Getting+started/Create+a+vault#Open+existing+folder).
 4. When importing, select `Trust Author and Enable Plugins` from the prompt. This will ensure that all the [community plugins](https://help.obsidian.md/Advanced+topics/Community+plugins) required to generate and export flashcards from the Obsidian vault work as expected.
 5. Link to this project's `_media` directory in your [Anki media folder](https://docs.ankiweb.net/files.html#file-locations). This can be done by creating an [alias](https://support.apple.com/guide/mac-help/create-and-remove-aliases-on-mac-mchlp1046/mac) to the folder on macOS, a [shortcut](https://support.microsoft.com/en-us/office/create-a-desktop-shortcut-for-an-office-program-or-file-9a8df64b-cd87-4700-95cc-4bc3e2a962da) to the folder on Windows, or a [symlink](https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/) to the folder on Linux.
