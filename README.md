@@ -32,6 +32,6 @@ If you ever delete the flashcard from Anki, delete the ID number from the bottom
 
 ### Using the Jeopardy Board
 
-A [Jeopardy Board](./Sample%20Obsidian%20Flashcards/Jeopardy%20Board.md) is available to view all Jeopardy flashcard notes from Obsidian.
+A [Jeopardy Board](Data%20Engineering/Jeopardy%20Board.md) is available to view all Jeopardy flashcard notes from Obsidian.
 
 To link to a new Jeopardy flashcard from the board, ensure that a note named `Jeopardy Board`  exists in the folder for your parent flashcard deck. There should be a subdirectory named `Jeopardy` in this folder which contains all the Jeopardy flashcards. Follow step 2 [above](#generate-and-export-flashcards) to open the templates prompt, then select `Jeopardy Board Entry` and fill in the prompts for the template as they appear.
